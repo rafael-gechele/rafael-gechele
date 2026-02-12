@@ -1,16 +1,39 @@
-## Hi there 👋
+## Rafael Gechele
 
-<!--
-**rafael-gechele/rafael-gechele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end.
 
-Here are some ideas to get you started:
+Tenho me dedicado ao estudo de Python, lógica de programação e estruturas de dados, buscando evoluir tecnicamente e construir uma base sólida na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="28"/>
+  <img src="https://skillicons.dev/icons?i=git" height="28"/>
+  <img src="https://skillicons.dev/icons?i=github" height="28"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="28"/>
+</p>
+
+---
+
+### Estatísticas
+
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+### Contato
+
+<p>
+  <a href="Rafael Gechele">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="rafaelgechele0@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+</p>
