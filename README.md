@@ -17,14 +17,6 @@ Tenho me dedicado ao estudo de Python, lógica de programação e estruturas de 
 
 ---
 
-### Estatísticas
-
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 ### Contato
 
 <p>
