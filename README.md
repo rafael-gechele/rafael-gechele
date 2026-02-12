@@ -28,7 +28,7 @@ Tenho me dedicado ao estudo de Python, lógica de programação e estruturas de 
 ### Contato
 
 <p>
-  <a href="Rafael Gechele">
+  <a href="https://www.linkedin.com/in/Rafael Gechele">
     <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
   </a>
   &nbsp;&nbsp;
